@@ -319,5 +319,9 @@ VR2 = 220/400 * 10
 
 VR2 = 55 V
 
-CAPITULO VI
+EJERCICIOS CAPITULO VI
+
+![image](https://user-images.githubusercontent.com/85209614/122876798-89798980-d2fb-11eb-8ecd-06d1c732e9e1.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122876924-ab730c00-d2fb-11eb-980a-5ad5c06056d1.png)
 
