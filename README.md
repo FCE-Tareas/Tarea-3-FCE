@@ -321,7 +321,16 @@ VR2 = 55 V
 
 EJERCICIOS CAPITULO VI
 
-![image](https://user-images.githubusercontent.com/85209614/122876798-89798980-d2fb-11eb-8ecd-06d1c732e9e1.png)
+![image](https://user-images.githubusercontent.com/85209614/122878306-3b658580-d2fd-11eb-8e65-744c01f9c131.png)
 
-![image](https://user-images.githubusercontent.com/85209614/122876924-ab730c00-d2fb-11eb-980a-5ad5c06056d1.png)
+![image](https://user-images.githubusercontent.com/85209614/122878355-48827480-d2fd-11eb-8add-12401084009f.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878401-57692700-d2fd-11eb-9f6e-ecad9aadafc2.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878477-6cde5100-d2fd-11eb-96f0-6dc179ff7a2f.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878622-9303f100-d2fd-11eb-9db3-b721c555ce77.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878650-9bf4c280-d2fd-11eb-813b-1d964b96f132.png)
+
 
