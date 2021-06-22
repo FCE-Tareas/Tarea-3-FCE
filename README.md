@@ -517,4 +517,20 @@ I3=(RT/R3)*IT=(0.96/4.3)*281.25=62.79mA
 
 I4=(RT/R4)*IT=(0.96/2.7)*281.25=100mA
 
+VIDEO
+
+https://youtu.be/VxUsLL8oElo
+
+CONCLUSIONES
+
+* El circuito en serie se denota por mantener su intensidad de corriente constante, y también se caracteriza por su variación de voltaje y finalmente las resistencias totales siempre serán las mismas que las resistencias que compone el circuito.
+
+* Cuando un voltímetro se coloca entre dos terminales para proporcionar una lectura de voltaje, el circuito sufre el mismo efecto que provocaría una resistencia colocada entre las dos terminales y si la resistencia del voltímetro es muy grande en comparación con la resistencia a la cual se le mide el voltaje, el medidor indicará en esencia el mismo valor que mostraba antes de conectar el medidor.
+
+
+BIBLIOGRAFÍA
+
+Raffino.M.E. (2020)."Circuito en Serie".From https://concepto.de/circuito-en-serie/.
+
+
 
