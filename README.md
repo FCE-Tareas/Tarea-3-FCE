@@ -18,6 +18,8 @@ Específicos
 
 CAPÍTULO V
 
+![image](https://user-images.githubusercontent.com/85137398/122874109-3baf5200-d2f8-11eb-9a57-ddcc449cb07c.png)
+
 ![image](https://user-images.githubusercontent.com/84390820/122866990-7b713c00-d2ee-11eb-8bda-69b352be0892.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -195,6 +197,121 @@ c. Encuentre la potencia disipada por cada uno de los resistores
 
 ![image](https://user-images.githubusercontent.com/84390820/122873991-1589b200-d2f8-11eb-977d-0f3c458827d4.png)
 
+22. Utilice la informacion dada para determinar la polaridad y la magnitud de la fuente de voltaje desconocida en cada uno de los circuitos de la figura 5-65.
 
+![image](https://user-images.githubusercontent.com/85137398/122874219-5c77a780-d2f8-11eb-946c-6dc33af9a9ac.png)
 
+a)	I=ET/RT ; despejamos ET
+
+ET=I*RT; SABEMOS QUE ET= V1-V2; V2=14V
+
+V1-14 = 2*21 ; despejamos V1
+
+V1 = 42+14	
+
+V1 = 56V
+
+26. Vea los circuitos de la figura 5-69:
+
+a. Use la regla del divisor de voltaje para encontrar los valores de los resistores desconocidos.
+
+![image](https://user-images.githubusercontent.com/85137398/122874294-7618ef00-d2f8-11eb-93d1-ee2ad26273f5.png)
+
+Aplicando la regla de divisor de voltajes obtengo la caída de tensión en R1
+
+VT = VR1+VR2+VR3 despejo VR1
+
+VR1 = VT-VR2-VR3 
+
+VR1 = 100 – 36 - 27
+
+VR1 = 37 V
+
+Ya que la regla nos dice que la sumatoria de ciadas de voltajes es igual al voltaje total suministrado 
+
+28. Repita el problema 27 con una serie de 36 focos.
+
+a. Determine la corriente en el circuito.
+
+Req = NR * 25 ohm
+
+Req = 36*25
+
+Req = 900 ohm 
+
+Para calcular la corriente del circuito ocupo ley de ohm
+
+I=V/Req
+
+I=100/900
+
+I= 0.11
+
+b. Utilice la regla del divisor de voltaje para encontrar el voltaje en cada foco.
+
+Vx=Rx/Rt * E
+
+Vx = 25/900 * 120
+
+Vx = 3.33 V
+
+c. Calcule la potencia disipada por cada foco.
+
+P = I*V
+
+P = 0.11 * 120
+
+P = 13.2 W
+
+30. Para los circuitos de la figura 5-71, determine el voltaje en cada resistor y calcule el voltaje Va.
+
+![image](https://user-images.githubusercontent.com/85137398/122874472-a496ca00-d2f8-11eb-99d5-d0738f090827.png)
+
+R1
+
+VR1 = R1/RT * E
+
+VR1 = 3/18 * 54
+
+VR1 = 9 V
+
+R2
+
+VR2 = R1/RT * E
+
+VR2 = 9/18 * 54
+
+VR2 = 27 V
+
+R3
+
+VR3 = R1/RT * E
+
+VR3 = 6/18 * 54
+
+VR3 = 18 V
+
+32. Dados los circuitos de la figura 5-72:
+
+a. Determine el voltaje en cada resistor. 
+
+![image](https://user-images.githubusercontent.com/85137398/122874556-c09a6b80-d2f8-11eb-9bce-8c493c0bc8e0.png)
+
+R1
+
+VR1 = R1/RT * E
+
+VR1 = 180/400 * 10
+
+VR1 = 4.5 V
+
+R2
+
+VR2 = R2/RT * E
+
+VR2 = 220/400 * 10
+
+VR2 = 55 V
+
+CAPITULO VI
 
