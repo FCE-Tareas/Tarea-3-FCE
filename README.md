@@ -333,4 +333,38 @@ EJERCICIOS CAPITULO VI
 
 ![image](https://user-images.githubusercontent.com/85209614/122878650-9bf4c280-d2fd-11eb-813b-1d964b96f132.png)
 
+![image](https://user-images.githubusercontent.com/85209614/122878875-de1e0400-d2fd-11eb-9b4d-8133e164c823.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878904-e7a76c00-d2fd-11eb-9bb6-b4857864a8e6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122878969-f726b500-d2fd-11eb-8245-663dbdd2da40.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879009-03127700-d2fe-11eb-8ba2-be4b18bf115a.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879045-0dcd0c00-d2fe-11eb-9966-49a0e8c8c8c0.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879064-16254700-d2fe-11eb-94ae-6d073489fad4.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879103-20dfdc00-d2fe-11eb-8217-c2037f160c92.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879132-2ccb9e00-d2fe-11eb-815b-f8d82cac7351.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879185-3ead4100-d2fe-11eb-87b7-6498ff646fd2.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879267-52f13e00-d2fe-11eb-998e-3595eb6d8f8c.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879309-5dabd300-d2fe-11eb-99a9-2289c321d484.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879340-67353b00-d2fe-11eb-944d-46c3e5571d03.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879391-74eac080-d2fe-11eb-9b77-3c4f171139b9.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879426-7ddb9200-d2fe-11eb-8956-a87ad55d588d.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879473-8b911780-d2fe-11eb-95a2-5d4be3d21a9b.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879511-96e44300-d2fe-11eb-9f0c-f09d3b2b392c.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122879534-9fd51480-d2fe-11eb-9a23-bbb4843fdee9.png)
+
 
