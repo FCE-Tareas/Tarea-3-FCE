@@ -22,6 +22,12 @@ CAPÍTULO V
 
 ![image](https://user-images.githubusercontent.com/84390820/122866990-7b713c00-d2ee-11eb-8bda-69b352be0892.png)
 
+CAPÍTULO VI
+
+![image](https://user-images.githubusercontent.com/85209614/122876418-1cfe8a80-d2fb-11eb-9394-d626c409b2a0.png)
+
+![image](https://user-images.githubusercontent.com/85209614/122876488-31428780-d2fb-11eb-904b-61b0c59e5e89.png)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO V
