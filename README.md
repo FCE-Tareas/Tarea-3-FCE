@@ -28,6 +28,10 @@ CAPÍTULO VI
 
 ![image](https://user-images.githubusercontent.com/85209614/122876488-31428780-d2fb-11eb-904b-61b0c59e5e89.png)
 
+![Regla del divisor de corriente-Analisis de circuitos en paralelo](https://user-images.githubusercontent.com/84390686/122880233-694bc980-d2ff-11eb-9ab0-9bd1a57f04cd.jpg)
+
+![EFECTOS DE CARGA EN EL VOLTIMETRO](https://user-images.githubusercontent.com/84390686/122880252-6e107d80-d2ff-11eb-9cd4-501d58e020aa.jpg)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO V
@@ -366,5 +370,151 @@ EJERCICIOS CAPITULO VI
 ![image](https://user-images.githubusercontent.com/85209614/122879511-96e44300-d2fe-11eb-9f0c-f09d3b2b392c.png)
 
 ![image](https://user-images.githubusercontent.com/85209614/122879534-9fd51480-d2fe-11eb-9a23-bbb4843fdee9.png)
+
+28.-Dos baterías de plomo-ácido de automóvil están conectadas en paralelo, como se muestra en la figura 6-70, para suministrar corriente de arranque adicional. Una de ellas está totalmente cargada a 14.2 V y la otra se ha descargado a 9V. Si la resistencia interna de cada batería es de 0.01 Ω, determine la corriente en las baterías. Si se desea que cada batería suministre una máxima corriente de 150 A, ¿este método es idóneo para arrancar un automóvil?
+
+A partir de la ley de Ohm
+
+I=Et/Rt
+
+I=(14.9V-9V)/(0.01 Ω +0.01 Ω)
+
+I=295A
+
+30.- Utilice la regla del divisor de corriente para encontrar las corrientes I1 e I2 en las redes de la figura 6-72.
+
+ ![image](https://user-images.githubusercontent.com/84390686/122880698-e70fd500-d2ff-11eb-8e07-bb555f6e778c.png)
+
+1 KΩ = 1000 Ω
+
+1 MΩ = 1000000 Ω
+
+I1=(R2/R1+R2)*It
+
+I1=(1000000 Ω /1000000 Ω +1000 Ω)*2mA
+
+I1=(1000/1001)*2
+
+I1=1,99 mA
+
+I2=(R1/R1+R2)*It
+
+I2=(1000 Ω /1000000 Ω +1000 Ω)*2mA
+
+I2 = (1/1001)*2mA
+
+I2=0,0199mA
+
+32. Utilice la regla del divisor de corriente para determinar todas las resistencias desconocidas en las redes de la figura 6-75.
+
+ ![image](https://user-images.githubusercontent.com/84390686/122880726-ef681000-d2ff-11eb-9881-41966a64892c.png)
+
+90mA = 0.09 A
+
+60mA = 0.06 A
+
+I2=((R1)/(R1+R))*It
+
+0.06A=(24/24+R) (0.09A)
+
+(2/3)(24)+(2/3)R=24
+
+(2/3)R=24-16
+
+R=8*3/2
+
+R=12 Ω
+
+34.- Utilice la regla del divisor de corriente para determinar las resistencias desconocidas en la red de la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/84390686/122880758-f727b480-d2ff-11eb-9c44-a5fe8549b9f0.png)
+
+I1=((R)/(R+R1))*It
+
+36μA=(R/R+300kΩ) (48μA)
+
+(3/4)(R)+(3/4)(300kΩ)=R
+
+(1/4)R=-225
+
+R=-225*4
+
+R=900kΩ
+
+36. Vea el circuito de la figura 6-77: ´
+
+a. Determine la resistencia equivalente RT, del circuito. 
+
+b. Encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/84390686/122880806-060e6700-d300-11eb-91b9-eacae5ca3dce.png)
+
+a)	Rq1=R1*R2/R1+R2
+
+Rq1=2*8/2+8
+
+Rq1=1.6kΩ
+
+Rq2=R3*R4/R3+R4
+
+Rq2=4*6/4+6
+
+Rq2=2.4kΩ
+
+Rq3=R5*R6/R5+R6
+
+Rq3=1.6*2.4/1.6+2.4
+
+Rq3=0.96kΩ
+
+b)	I=V/R
+
+I=48V/0.96
+
+I=50mA
+
+38.- Vea el circuito de la figura 6-79. 
+
+![image](https://user-images.githubusercontent.com/84390686/122880824-0e66a200-d300-11eb-8bb3-5b65798ec3be.png)
+
+a) Encuentre la resistencia total RT 
+
+Rq1=1/((1/4.3)+(1/3.9)+(1/5.6))
+
+Rq1=1.5kΩ
+
+RT=1.5*2.7/1.5+2.7
+
+RT=0.96kΩ
+
+b) Encuentre la corriente I a través de la fuente de voltaje.
+
+Utilizaremos la ley de ohm:
+
+I=V/R
+
+I=270v/0.96
+
+I=281.25mA
+
+c) Encuentre todas las corrientes desconocidas en el circuito
+
+Primero se calcula la conductancia total de la red.
+
+GT=(1/5.6)+(1/3.9)+(1/4.3)+(1/2.7)
+
+GT=1.04S
+
+Ahora las corrientes se evalúan como sigue:
+
+RT=0.96KΩ
+
+I1=(RT/R1)*IT=(0.96/5.6)*281.25=48.21mA
+
+I2=(RT/R2)*IT=(0.96/3.9)*281.25=69.23mA
+
+I3=(RT/R3)*IT=(0.96/4.3)*281.25=62.79mA
+
+I4=(RT/R4)*IT=(0.96/2.7)*281.25=100mA
 
 
